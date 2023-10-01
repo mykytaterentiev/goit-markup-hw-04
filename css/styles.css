@@ -380,9 +380,10 @@ ul {
 }
 
 .container-studio-section {
-    background-image: linear-gradient(rgba(46, 47, 66, 0.7),
-            rgba(46, 47, 66, 0.7)),
-        url(../images/people-office.jpg);
+    background-image:
+    url(/images/people-office.png)
+     linear-gradient(rgba(46, 47, 66, 0.7),
+     rgba(46, 47, 66, 0.7)),
 }
 
 .title-last-icon {
